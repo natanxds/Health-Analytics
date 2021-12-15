@@ -1,4 +1,4 @@
-<h1> Health Analytics (Sprint 3) </h1>
+<h1> Health Analytics  </h1>
 
 <a href="https://imgur.com/OSNHwn7.png">
   <img src="https://imgur.com/OSNHwn7.png" />
